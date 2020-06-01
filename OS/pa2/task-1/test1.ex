@@ -1,0 +1,14 @@
+temp1/f1a.txt
+temp1/f1.txt
+temp1/f3.txt
+temp1/f4.txt
+temp1/f5.txt
+temp1/f6.txt
+temp1/f8.c
+temp2/f1.txt
+temp2/f2.c
+temp2/f3.txt
+temp2/f4.txt
+temp2/f5.txt
+temp2/f6.txt
+temp2/f9.c

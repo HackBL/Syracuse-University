@@ -1,0 +1,10 @@
+./Assignment-1/Query-1/response-1.sh
+./Assignment-1/Query-2/response-2.sh
+./Assignment-1/Query-3/response-3.sh
+./Assignment-1/Query-4/response-4.sh
+./Assignment-1/Query-5/response-5.sh
+./Assignment-1/Query-6/response-6.sh
+./Assignment-1/Query-7/response-7.sh
+./Assignment-1/Query-8/response-8.sh
+./Assignment-1/Query-9/response-9.sh
+./Assignment-1/Query-10/response-10.sh

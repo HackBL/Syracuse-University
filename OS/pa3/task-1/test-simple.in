@@ -1,0 +1,8 @@
+ls /bin/ps
+which ps
+find /usr -name ps -print 
+wc ./test-simple.in
+cd /tmp
+pwd
+ps --help
+exit
