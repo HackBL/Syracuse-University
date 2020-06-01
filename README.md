@@ -1,9 +1,10 @@
 # Syracuse-University
-This Repository includes all coursework taking in Syracuse University as Master Program
+This Repository includes all coursework taking in Syracuse University as a Master Program
 
 ## Individual Projects
 * CIS-554: Object Orientdd Programming C++
-* NLP: HW1, HW2, HW3
-
+* NLP: Natural Language Processing - Python
+* OS: Principle Operating System - bash & C/C++
 ## Team Projects
-* NLP:Sentiment Analysis on COVID-19
+* NLP-Sentiment Analysis on COVID-19 - Python
+* Nachos-OS - C/C++
