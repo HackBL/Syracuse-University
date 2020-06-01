@@ -2,7 +2,7 @@
 This Repository includes all coursework taking in Syracuse University as a Master Program
 
 ## Individual Projects
-* CIS-554: Object Orientdd Programming C++
+* CIS-554: Object Oriented Programming C++
 * NLP: Natural Language Processing - Python
 * OS: Principle Operating System - bash & C/C++
 ## Team Projects
