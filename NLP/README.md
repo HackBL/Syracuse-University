@@ -1,7 +1,7 @@
 # Natrual Language Processing
 
 ## Introduction
-* All directories are related to coursework in NLP
+* All HW are related to coursework in NLP
 * Data is from Amazon Reviews
 * All HW mainly implement NLTK to accomplish requirements
 
