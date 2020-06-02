@@ -1,7 +1,7 @@
 # Sentiment Analysis of Covid-19 on both China & America using NLTK
 
 ## Introduction
-* Analyze both Weibo & Twitter from 3/10/2020 - 4/10/2020
+* Analyze both Weibo & Twitter from **3/10/2020 - 4/10/2020**
 * Run scrawlers once every day
 * Collect all topics relevant to Covid-19
 
