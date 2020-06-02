@@ -42,4 +42,4 @@
     2. Import WordCould to view the top Unigram & Bigram on both Twitter & Weibo.
     3. Compare Positive & Negative on bar charts.
     4. Analyze attitudes (growth rate or trending) of people on Covid-19 .
-    2. 
+ 
