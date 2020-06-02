@@ -4,6 +4,7 @@
 * Analyze both Weibo & Twitter from `3/10/2020 - 4/10/2020`
 * Run scrawlers once every day
 * Collect all topics relevant to Covid-19
+* Attitudes of Covid-19 by Users
 
 
 ## Features
