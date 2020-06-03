@@ -1,4 +1,4 @@
-# Public Opinion Analysis on Covid-19 in both areas of China & America using NLTK
+# Public Opinion Analysis on Covid-19 in both regions of China & America using NLTK
 
 ## Introduction
 * Analyze both Weibo & Twitter from `3/10/2020 - 4/10/2020`
