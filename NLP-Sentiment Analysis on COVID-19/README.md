@@ -1,17 +1,17 @@
-# Sentiment Analysis of Covid-19 in both China & America using NLTK
+# Public Opinion Analysis on Covid-19 in both areas of China & America using NLTK
 
 ## Introduction
 * Analyze both Weibo & Twitter from `3/10/2020 - 4/10/2020`
 * Run scrawlers once every day
 * Collect all topics relevant to Covid-19
-* **Sentiment Analysis:** Analyze attitudes of Covid-19 from Users
+* Analyze attitudes of Covid-19 from Users
 
 
 ## Features
 * Data collection
 * Diagrams showing Trending and Growth Rate
 * Implement WordCloud
-* Public Opinion Analysis on Covid-19
+* **Sentiment Analysis:** Public Opinion Analysis on Covid-19
 
 
 ## Processing
