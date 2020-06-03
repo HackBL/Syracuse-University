@@ -5,6 +5,6 @@ This Repository includes all coursework taking in Syracuse University as a Maste
 * CIS-554: C++
 * NLP: Python
 * OS: bash & C/C++
-## Team Projects
+## Group Projects
 * NLP-Sentiment Analysis on COVID-19: Python
 * Nachos-OS: C/C++
