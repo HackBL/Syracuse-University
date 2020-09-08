@@ -4,4 +4,4 @@
 * All HW are related to coursework in Data Mining
 
 ## Assignments
-* HW1: Select Polygon by users to calculate area
+* AreaCalculation.py: Select Polygon by users to calculate area
